@@ -4,7 +4,7 @@ const Results = (props) =>{
     const {firstName, lastName, email, password, confirmPassword} = props.data;
     return(
         <div>
-            <h2>Results</h2>
+            <h2>There the Results</h2>
             <p>First Name: {firstName}</p>
             <p>Last Name: {lastName}</p>
             <p>Email: {email}</p>
